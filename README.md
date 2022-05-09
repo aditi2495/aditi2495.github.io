@@ -1,11 +1,9 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aditi Rawat</h1>
+<h1 align="center">Hello Everyone👋, I'm Aditi Rawat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 - 📫 How to reach me **er.aditirawat@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
