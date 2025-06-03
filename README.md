@@ -2,7 +2,7 @@
 <h1 align="center">Hello Everyone👋, I'm Aditi Rawat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 📫 How to reach me **er.aditirawat@gmail.com**
+- 📫 How to reach me **arawat1@kent.edu**
 
 <p align="left">
 </p>
